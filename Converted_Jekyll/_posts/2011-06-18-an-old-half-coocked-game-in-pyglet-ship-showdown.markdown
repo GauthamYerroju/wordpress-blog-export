@@ -29,13 +29,13 @@ Here is a little something I developed in Pyglet. I've made many trials and erro
 
 ## Screenshots
 
-![Title screen](images/2011-06-18-a-game-in-pyglet-ship-showdown/)
+![Title screen](_images/2011-06-18-a-game-in-pyglet-ship-showdown/)
 
-![Player customization](images/2011-06-18-a-game-in-pyglet-ship-showdown/player-customization.jpg)
+![Player customization](_images/2011-06-18-a-game-in-pyglet-ship-showdown/player-customization.jpg)
 
-![Fight starts](images/2011-06-18-a-game-in-pyglet-ship-showdown/fight-starts.jpg)
+![Fight starts](_images/2011-06-18-a-game-in-pyglet-ship-showdown/fight-starts.jpg)
 
-![Damage done](images/2011-06-18-a-game-in-pyglet-ship-showdown/damage-done.jpg)
+![Damage done](_images/2011-06-18-a-game-in-pyglet-ship-showdown/damage-done.jpg)
 
 I planned on taking this little project further but by the time I got back to it, pyglet has become more or less obselete and much better alternatives have emerged. But if you would like to take it apart, learn, experiment, modify and adapt, feel free to do so.
 
