@@ -17,7 +17,7 @@ tags:
 
 So what’s the deal with Mozilla? I know they’ve changed to a rapid release cycle, but it doesn’t feel like it was too long ago that version 4 was released. Soon after, version 5 didn’t bring any groundbreaking changes to the table either. Now, they’ve released version 6.
 
-![Firefox Download Button](http://www.mozilla.org/contribute/buttons/110x32bubble_b.png)](http://www.mozilla.org/firefox?WT.mc_id=aff_en04&amp;WT.mc_ev=click)
+![Firefox Download Button](http://www.mozilla.org/contribute/buttons/110x32bubble_b.png)(http://www.mozilla.org/firefox?WT.mc_id=aff_en04&amp;WT.mc_ev=click)
 
 Judging from FF6’s release notes, most of the changes are under the hood:
 

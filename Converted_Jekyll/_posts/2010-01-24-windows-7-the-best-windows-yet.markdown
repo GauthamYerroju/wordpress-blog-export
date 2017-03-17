@@ -101,5 +101,5 @@ I noticed two new useful additions to the Task Manager. One is the "Open File Lo
 
 I'm sure I'm missing some things (like the Snipping Tool which I find useful sometimes), but I think I'll end the post here. But before I go, here's a screenshot of my desktop:
 
-![GTMs Desktop](img/post-images/2010-01-24-windows-7-the-best-windows-yet/Desktop24-Jan-2010.jpg)
+![GTMs Desktop](img/post-images/2010-01-24-windows-7-the-best-windows-yet/Desktop-24-Jan-2010.jpg)
 To get gadgets, visit the Windows Live gallery (or use Google). Note that most gadgets made for Vista should work in Seven. (I modded the code in the slideshow gadget to accept a list of directories instead of just one :sunglasses: )

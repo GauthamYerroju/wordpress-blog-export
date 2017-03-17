@@ -33,6 +33,6 @@ Here is a little something I developed in Pyglet. I've made many trials and erro
 
 ![Shots fired and damage done!](/damage-done.jpg)
 
-I planned on taking this little project further but by the time I got back to it, pyglet has become more or less obselete and much better alternatives have emerged. But if you would like to take it apart, learn, experiment, modify and adapt, feel free to do so.
+I planned on taking this little project further but by the time I got back to it, pyglet had become more or less obselete and much better alternatives have emerged since. But if you would like to take it apart, learn, experiment, modify and adapt, feel free to do so.
 
 Peace!

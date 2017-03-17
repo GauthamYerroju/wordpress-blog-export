@@ -22,7 +22,7 @@ I restarted the PC and hit F8 during boot to bring up the extended boot menu. I 
 
 I booted back into Windows, but there was no explorer again. I logged into my user, hit Ctrl+Alt+Del, and got to task manager. Tried File > Run > explorer without luck (obviously, since explorer was corrupt). I started cmd.exe and ran “sfc /scannow” but alas, I had to have admin privileges to run that command! And I couldn’t, for the life of me, figure out how to start a cmd prompt with admin privileges. All the posts on the internet were describing the GUI way (from the start menu), but I didn’t have a start menu without explorer. Then I somehow found **[this blog post](http://jpassing.com/2007/12/08/launch-elevated-processes-from-the-command-line/)** about a nice utility written in C called elevate. With the help of that utility, I was able to start an elevated cmd prompt, run the “sfc /scannow” command, and reboot into a working Windows session, and all was well again.
 
-So the summary:
+So, in summary:
 
   * Always make a backup of all the files that you will change when you theme.
   * [Theme Manager](http://bickelk.deviantart.com/art/Theme-Manager-Windows-7-176165228 "Theme Manager for WIndows 7 by bicklec at deviantART") is a great tool for managing Windows themes.
